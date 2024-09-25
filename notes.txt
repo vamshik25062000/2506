@@ -1,0 +1,4 @@
+cloud fornt:  CDN(contant delivary network)
+            cdn contain edge locations helps to privante latency 
+cloud trail:- used to track the events.
+cloud watch:- used to monitor the events,sns,alarms
